@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\try1\try1\bin\Debug\try1.exe.config
+\\Mac\Home\Desktop\try1\try1\bin\Debug\try1.exe
+\\Mac\Home\Desktop\try1\try1\bin\Debug\try1.pdb
+\\Mac\Home\Desktop\try1\try1\obj\Debug\try1.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\try1\try1\obj\Debug\try1.Form1.resources
+\\Mac\Home\Desktop\try1\try1\obj\Debug\try1.Properties.Resources.resources
+\\Mac\Home\Desktop\try1\try1\obj\Debug\try1.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\try1\try1\obj\Debug\try1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\try1\try1\obj\Debug\try1.exe
+\\Mac\Home\Desktop\try1\try1\obj\Debug\try1.pdb
+\\Mac\Home\Desktop\try1\try1\obj\Debug\try1.Form2.resources

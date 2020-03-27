@@ -1,0 +1,18 @@
+      Instruction       IS    Ex-Begin    Ex-end    WB
+L.D  F6,34(R2)           1            2            3            0
+L.D  F2,45(R3)           2            3            0            0
+MUL.D  F0,F2,F4          3            0            0            0
+SUB.D  F8,F2,F6          0            0            0            0
+DIV.D  F10,F0,F6         0            0            0            0
+ADD.D  F6,F8,F2          0            0            0            0
+ --------------------------------------------------------------------- 
+   Name         Busy        Op            Vj           Vk           Qj        Qk       A      
+LOAD1     True      L.D                                             
+LOAD2     True      L.D                                             
+ADD1     False                                                                   
+ADD2     False                                                                   
+ADD3     False                                                                   
+MULT1     True      MUL.D                     LOAD2                
+MULT2     False                                                                   
+ --------------------------------------------------------------------- 
+    Qi      MULT1(F0)     LOAD2(F2)               LOAD1(F6)                              
